@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Abhinav's GitHub stats](https://github-readme-stats-rh4bxn62y-abhinavmalls-projects.vercel.app/api?username=abhinavmall&show_icons=true&theme=transparent)
+![Abhinav's GitHub stats](https://github-readme-stats-rh4bxn62y-abhinavmalls-projects.vercel.app/api?username=abhinavmall&show_icons=true&theme=transparent&show=reviews,prs_merged,prs_merged_percentage)
